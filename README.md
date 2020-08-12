@@ -1,1 +1,1 @@
-# Air-Quality-index
+# AQI-Project
